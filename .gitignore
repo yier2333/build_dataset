@@ -1,0 +1,11 @@
+full_data/sparkTools/
+bad_data/
+
+*.txt
+*.bin
+*.log
+
+
+
+
+
